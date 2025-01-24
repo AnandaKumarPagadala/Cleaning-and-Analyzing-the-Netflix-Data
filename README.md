@@ -14,6 +14,9 @@ Key Objectives:
 1. Scripting language - SQL
 2. Programming language -Python
 3. ELT (Extarct, Load, Transform)
-   
+## Dataset used
+- I took the Netflix movies and TV shows data which shows the listing of movies and TV shows on Netflix.
+Here is the dataset used innthe video - https://github.com/AnandaKumarPagadala/Cleaning-and-Analyzing-the-Netflix-Data/blob/main/netflix_titles.csv
+
 
 
